@@ -1,0 +1,25 @@
+body {
+  font-family: Arial;
+  background: #fc0101;
+  text-align: center;
+  padding: 50px;
+}
+
+form {
+  background: black;
+  text-align: right;
+  padding: 20px;
+  border-radius: 10px;
+  display: inline-block;
+  box-shadow: 0 0 10px whitesmoke;
+  border-color: black;
+}
+
+label {
+  color: white;
+}
+
+h2 {
+  border-radius: 10px;
+  background-color: blue;
+}
